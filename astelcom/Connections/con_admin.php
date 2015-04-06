@@ -4,7 +4,7 @@
 # HTTP="true"
 $hostname_con_admin = "localhost";
 $database_con_admin = "paginade_astelcom";
-$username_con_admin = "paginade_prueba";
+$username_con_admin = "paginade_prueba1";
 $password_con_admin = "%W6[9SuX5F~X";
 $con_admin = mysql_pconnect($hostname_con_admin, $username_con_admin, $password_con_admin) or trigger_error(mysql_error(),E_USER_ERROR); 
 ?>
